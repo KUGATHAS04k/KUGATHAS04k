@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @KUGATHAS04k
 - 👀 I’m interested in TECHNOLOGY
-- 🌱 I’m currently learning MONEY, MATHS , PHYSICS
+- 🌱 I’m currently learning MATHS , PHYSICS and Web Development
 - 💞️ I’m looking to collaborate on BUILDING CODECORE
-- 📫 How to reach me FACEBOOK
+- 📫 I am in All social media follow me
 
 <!---
 KUGATHAS04k/KUGATHAS04k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
